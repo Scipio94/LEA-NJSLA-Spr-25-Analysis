@@ -1,2 +1,2 @@
-# LEA-NJSLA-Spr-25-Analysis
-Analysis of Spring 25 NJSLA data for a high performing LEA 
+# NJSLA-Spring 25 Analysis
+Regualr and advanced analysis of Spring 25 NJSLA outcomes comparing testing results based on a variety of variables, time, race, classification, and more.
